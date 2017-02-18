@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/CountSubstringOccurrences/CountSubstringOccurrences/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/CountSubstringOccurrences/CountSubstringOccurrences/bin/Debug/CountSubstringOccurrences.exe.mdb
+/Users/TaHuC/Projects/CountSubstringOccurrences/CountSubstringOccurrences/bin/Debug/CountSubstringOccurrences.exe
+/Users/TaHuC/Projects/CountSubstringOccurrences/CountSubstringOccurrences/obj/x86/Debug/CountSubstringOccurrences.exe
+/Users/TaHuC/Projects/CountSubstringOccurrences/CountSubstringOccurrences/obj/x86/Debug/CountSubstringOccurrences.exe.mdb
